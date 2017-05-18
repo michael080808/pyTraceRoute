@@ -62,10 +62,10 @@ Use Python 3 and Linux Mint 18.1 (Ubuntu 16.04.2 LTS) </br>
     4.TTL = TTL + 1, Return Item 2.
 
 ## TCP [SYN] -> ICMP [TTL Exceeded]
-![](https://github.com/michael080808/pyTraceRoute/master/images/2017-05-18%2017-18-20屏幕截图.png)
+![](https://raw.githubusercontent.com/michael080808/pyTraceRoute/master/images/2017-05-18%2017-18-20屏幕截图.png)
 
 ## TCP [SYN] -> TCP [SYN, ACK]
-![](https://github.com/michael080808/pyTraceRoute/master/images/2017-05-18%2017-18-44屏幕截图.png)
+![](https://raw.githubusercontent.com/michael080808/pyTraceRoute/master/images/2017-05-18%2017-18-44屏幕截图.png)
 
 ## IP(Internet Protocol):
 
